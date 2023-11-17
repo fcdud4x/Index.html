@@ -2,6 +2,8 @@ body {
   background: #cccccc;
 }
 
+#esmalteria.jpg
+
 h1 {
 width:100%;
   text-align: center;
@@ -19,7 +21,6 @@ em strong {
   font-size: 20px;
 }
 
-img {
-  scr= "esmalteria.jpg"
+#esmalteria.jpg {
 width: 100%;
 }
